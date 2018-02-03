@@ -1,0 +1,8 @@
+checkUpdates: false
+use-command-reply: false
+checkiPvP:
+  enabled: true
+  check-lava: true
+  check-fns: true
+  skip-damagerKillHesSelf: true
+  radius: 3

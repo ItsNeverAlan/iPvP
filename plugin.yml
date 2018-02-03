@@ -1,0 +1,7 @@
+main: me.leegod.ipvp.main
+name: iPvP
+version: 1.0
+author: LeeGod
+commands:
+  ipvp:
+    desription: ipvp main commands!

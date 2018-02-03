@@ -1,0 +1,11 @@
+# PlaceHolders: <damager> , <getDamager>
+# if you wanna dont show that message, just set the value to false
+# Example: damager: false
+
+iPvP:
+  LavaCancelled:
+    damager: "&ciPvP has been cancelled!"
+    getdamager: false
+  FNSCancelled:
+    damager: "&ciPvP has been cancelled!"
+    getdamager: false
